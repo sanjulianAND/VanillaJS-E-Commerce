@@ -71,15 +71,15 @@ footer{
     height: 42rem;
     border-top: 0.2rem #e0e0e0 solid;
 }
-product{
+.product{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
     height: 100%;
 }
 .product img{
-    max-height: 26rem;
-    max-width: 22rem;
+    height: 26rem;
+    width: 22rem;
     margin-top: 2rem;
 }
 .product-name{
